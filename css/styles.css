@@ -1,0 +1,56 @@
+div #js {
+  background-color: black;
+  color: black;
+}
+
+body {
+  color: black;
+}
+.definition {
+  background-color: white;
+}
+
+.definition {
+  display: none;
+}
+
+.card {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.card:hover {
+  text-decoration: underline;
+}
+
+p.answer-two {
+  color: white;
+}
+.answer {
+  background-color: black;
+
+}
+.question {
+  background-color: white;
+
+}
+
+.card-one-hidden {
+  display: none;
+}
+
+.card-three-hidden {
+  display: none;
+}
+
+.card-four-hidden {
+  display: none;
+}
+
+.card-five-hidden {
+  display: none;
+}
+
+h3 {
+  display: none;
+}
